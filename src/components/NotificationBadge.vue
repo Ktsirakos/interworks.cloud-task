@@ -1,6 +1,6 @@
 <template>
     <div class="relative inline-block">
-        <span class="
+        <span v-if="count" class="
         absolute 
         -top-2
         -right-2
