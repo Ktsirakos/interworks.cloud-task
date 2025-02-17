@@ -1,0 +1,562 @@
+{
+  "products": [
+    {
+      "name": "Radiant Sapphire Pendant",
+      "price": 289.99,
+      "description": "Elegant pendant featuring a brilliant blue sapphire surrounded by small diamonds on a delicate silver chain. Perfect for everyday elegance or special occasions.",
+      "image": "https://picsum.photos/id/152/300/300"
+    },
+    {
+      "name": "Vintage Rose Gold Bracelet",
+      "price": 199.95,
+      "description": "A stunning vintage-inspired bracelet crafted from rose gold with intricate filigree details. Features a secure lobster clasp and adjustable length.",
+      "image": "https://picsum.photos/id/119/300/300"
+    },
+    {
+      "name": "Diamond Solitaire Earrings",
+      "price": 599.99,
+      "description": "Classic diamond solitaire stud earrings set in 14k white gold. Each earring features a 0.5 carat diamond with exceptional clarity. Secure post backs for comfortable wear.",
+      "image": "https://picsum.photos/id/128/300/300"
+    },
+    {
+      "name": "Emerald Statement Ring",
+      "price": 449.95,
+      "description": "Bold statement ring featuring a vivid emerald-cut emerald surrounded by a halo of small diamonds. Set in 18k gold with a comfortable band.",
+      "image": "https://picsum.photos/id/143/300/300"
+    },
+    {
+      "name": "Pearl Strand Necklace",
+      "price": 249.99,
+      "description": "Timeless freshwater pearl necklace with individually knotted pearls. Features a secure silver clasp and comes in a luxurious gift box.",
+      "image": "https://picsum.photos/id/165/300/300"
+    },
+    {
+      "name": "Men's Onyx Cufflinks",
+      "price": 129.95,
+      "description": "Sophisticated cufflinks featuring black onyx stones set in polished stainless steel. Perfect for adding elegance to formal attire.",
+      "image": "https://picsum.photos/id/122/300/300"
+    },
+    {
+      "name": "Ruby Anniversary Band",
+      "price": 349.99,
+      "description": "Celebrate your love with this stunning anniversary band featuring alternating rubies and diamonds in a channel setting. Crafted in 14k white gold.",
+      "image": "https://picsum.photos/id/188/300/300"
+    },
+    {
+      "name": "Boho Charm Anklet",
+      "price": 59.95,
+      "description": "Bohemian-inspired anklet with dangling charms including turquoise beads and feather details. Adjustable chain with lobster clasp closure.",
+      "image": "https://picsum.photos/id/104/300/300"
+    },
+    {
+      "name": "Platinum Wedding Band",
+      "price": 899.99,
+      "description": "Timeless platinum wedding band with a polished finish. Designed for comfort with a slightly rounded interior.",
+      "image": "https://picsum.photos/id/189/300/300"
+    },
+    {
+      "name": "Art Deco Amethyst Necklace",
+      "price": 179.95,
+      "description": "Art deco-inspired pendant featuring a deep purple amethyst surrounded by marcasite details. Hangs from an 18-inch sterling silver chain.",
+      "image": "https://picsum.photos/id/137/300/300"
+    },
+    {
+      "name": "Twisted Gold Hoop Earrings",
+      "price": 149.99,
+      "description": "Classic hoop earrings with a modern twist, crafted from 14k yellow gold with a textured surface. Secure hinge closure for all-day wear.",
+      "image": "https://picsum.photos/id/112/300/300"
+    },
+    {
+      "name": "Sapphire Tennis Bracelet",
+      "price": 789.95,
+      "description": "Elegant tennis bracelet featuring alternating sapphires and diamonds set in white gold. Secure box clasp with safety catch.",
+      "image": "https://picsum.photos/id/156/300/300"
+    },
+    {
+      "name": "Minimalist Bar Necklace",
+      "price": 89.99,
+      "description": "Modern minimalist necklace featuring a sleek bar pendant in sterling silver. Can be personalized with engraving for a special touch.",
+      "image": "https://picsum.photos/id/153/300/300"
+    },
+    {
+      "name": "Citrine Drop Earrings",
+      "price": 119.95,
+      "description": "Vibrant citrine stones in teardrop settings suspended from sterling silver hooks. The warm golden hues catch the light beautifully.",
+      "image": "https://picsum.photos/id/125/300/300"
+    },
+    {
+      "name": "Men's Leather Bracelet",
+      "price": 79.99,
+      "description": "Rugged yet sophisticated braided leather bracelet with stainless steel magnetic clasp. Available in black or brown.",
+      "image": "https://picsum.photos/id/114/300/300"
+    },
+    {
+      "name": "Opal Cluster Ring",
+      "price": 299.95,
+      "description": "Stunning cocktail ring featuring a cluster of iridescent opals surrounded by small diamonds. Set in 14k white gold with a comfort-fit band.",
+      "image": "https://picsum.photos/id/144/300/300"
+    },
+    {
+      "name": "Gold Chain Necklace",
+      "price": 349.99,
+      "description": "Classic 18k gold chain necklace with interlocking links. Versatile enough for everyday wear and special occasions.",
+      "image": "https://picsum.photos/id/167/300/300"
+    },
+    {
+      "name": "Turquoise Cuff Bracelet",
+      "price": 129.95,
+      "description": "Southwestern-inspired sterling silver cuff bracelet featuring natural turquoise stones. Adjustable fit for most wrist sizes.",
+      "image": "https://picsum.photos/id/118/300/300"
+    },
+    {
+      "name": "Moonstone Stud Earrings",
+      "price": 89.99,
+      "description": "Ethereal moonstone stud earrings set in sterling silver. The stones display a beautiful blue adularescence that shifts with movement.",
+      "image": "https://picsum.photos/id/129/300/300"
+    },
+    {
+      "name": "Engraved Locket Necklace",
+      "price": 149.95,
+      "description": "Vintage-inspired oval locket with detailed engraving. Opens to hold two small photos and hangs from a delicate chain.",
+      "image": "https://picsum.photos/id/151/300/300"
+    },
+    {
+      "name": "Men's Signet Ring",
+      "price": 219.99,
+      "description": "Traditional signet ring crafted in 10k yellow gold. Can be personalized with custom engraving for a meaningful gift.",
+      "image": "https://picsum.photos/id/145/300/300"
+    },
+    {
+      "name": "Pearl Drop Earrings",
+      "price": 129.95,
+      "description": "Elegant earrings featuring lustrous freshwater pearls suspended from 14k gold posts. Simple yet sophisticated design for any occasion.",
+      "image": "https://picsum.photos/id/124/300/300"
+    },
+    {
+      "name": "Infinity Symbol Bracelet",
+      "price": 79.99,
+      "description": "Delicate bracelet featuring an infinity symbol set with small cubic zirconia stones. Adjustable chain with lobster clasp closure.",
+      "image": "https://picsum.photos/id/117/300/300"
+    },
+    {
+      "name": "Garnet Cocktail Ring",
+      "price": 189.95,
+      "description": "Bold cocktail ring featuring a deep red garnet centerpiece surrounded by intricate metalwork. Perfect for making a statement.",
+      "image": "https://picsum.photos/id/142/300/300"
+    },
+    {
+      "name": "Layered Chain Necklace",
+      "price": 109.99,
+      "description": "Contemporary necklace featuring multiple chains of varying lengths designed to be worn together. Mix of silver and gold tones.",
+      "image": "https://picsum.photos/id/168/300/300"
+    },
+    {
+      "name": "Men's Cuban Link Bracelet",
+      "price": 249.95,
+      "description": "Bold Cuban link bracelet crafted from stainless steel with optional gold plating. Features a secure box clasp with safety catch.",
+      "image": "https://picsum.photos/id/116/300/300"
+    },
+    {
+      "name": "Peridot Teardrop Earrings",
+      "price": 159.99,
+      "description": "Vivid green peridot stones in elegant teardrop settings. The sterling silver frames highlight the gemstones' natural beauty.",
+      "image": "https://picsum.photos/id/123/300/300"
+    },
+    {
+      "name": "Birthstone Pendant Necklace",
+      "price": 99.95,
+      "description": "Personalized pendant featuring your choice of birthstone set in sterling silver. Includes an 18-inch chain and gift packaging.",
+      "image": "https://picsum.photos/id/159/300/300"
+    },
+    {
+      "name": "Hammered Gold Bangle",
+      "price": 179.99,
+      "description": "Artisan-crafted bangle with a hammered texture in 14k gold. The textured finish catches the light beautifully for a subtle sparkle.",
+      "image": "https://picsum.photos/id/115/300/300"
+    },
+    {
+      "name": "Aquamarine Cluster Ring",
+      "price": 329.95,
+      "description": "Dreamy cluster ring featuring pale blue aquamarine stones arranged in a floral pattern. Set in white gold with diamond accents.",
+      "image": "https://picsum.photos/id/141/300/300"
+    },
+    {
+      "name": "Vintage-Inspired Choker",
+      "price": 89.99,
+      "description": "Victorian-inspired choker necklace with intricate filigree work and a small pendant. Adjustable length for perfect positioning.",
+      "image": "https://picsum.photos/id/154/300/300"
+    },
+    {
+      "name": "Men's Braided Leather Bracelet",
+      "price": 69.95,
+      "description": "Casual yet sophisticated bracelet featuring braided leather with stainless steel accents. Comfortable magnetic clasp for easy wear.",
+      "image": "https://picsum.photos/id/113/300/300"
+    },
+    {
+      "name": "Amber Teardrop Earrings",
+      "price": 119.99,
+      "description": "Warm, honey-colored amber stones in sterling silver settings. These earrings feature Baltic amber known for its rich color.",
+      "image": "https://picsum.photos/id/127/300/300"
+    },
+    {
+      "name": "Rose Quartz Heart Pendant",
+      "price": 79.95,
+      "description": "Sweet heart-shaped pendant carved from genuine rose quartz. Known as the stone of love, it makes a meaningful gift.",
+      "image": "https://picsum.photos/id/158/300/300"
+    },
+    {
+      "name": "Men's Titanium Wedding Band",
+      "price": 199.99,
+      "description": "Contemporary wedding band crafted from lightweight, hypoallergenic titanium. Features a brushed finish with polished edges.",
+      "image": "https://picsum.photos/id/185/300/300"
+    },
+    {
+      "name": "Tanzanite Solitaire Ring",
+      "price": 499.95,
+      "description": "Exquisite solitaire ring featuring a rare violet-blue tanzanite stone set in platinum. The prong setting maximizes light reflection.",
+      "image": "https://picsum.photos/id/146/300/300"
+    },
+    {
+      "name": "Rope Chain Necklace",
+      "price": 269.99,
+      "description": "Classic rope chain necklace crafted from 14k gold. The twisted design creates a textured appearance that catches the light beautifully.",
+      "image": "https://picsum.photos/id/166/300/300"
+    },
+    {
+      "name": "Chakra Bead Bracelet",
+      "price": 49.95,
+      "description": "Wellness-inspired bracelet featuring seven different gemstones representing the chakras. Strung on elastic for comfortable wear.",
+      "image": "https://picsum.photos/id/111/300/300"
+    },
+    {
+      "name": "Topaz Halo Earrings",
+      "price": 189.99,
+      "description": "Stunning blue topaz stones surrounded by halos of small cubic zirconia. The post backs ensure secure and comfortable wear.",
+      "image": "https://picsum.photos/id/126/300/300"
+    },
+    {
+      "name": "Initial Pendant Necklace",
+      "price": 69.95,
+      "description": "Personalized pendant featuring your chosen initial in a sophisticated script font. Crafted in sterling silver with optional gold plating.",
+      "image": "https://picsum.photos/id/157/300/300"
+    },
+    {
+      "name": "Men's Beaded Bracelet",
+      "price": 59.99,
+      "description": "Casual beaded bracelet featuring matte onyx stones with stainless steel spacers. Stretches for easy on and off wear.",
+      "image": "https://picsum.photos/id/112/300/300"
+    },
+    {
+      "name": "Morganite Cushion Cut Ring",
+      "price": 399.95,
+      "description": "Romantic ring featuring a cushion-cut morganite stone in a rose gold setting. The pale pink gem is complemented by a halo of small diamonds.",
+      "image": "https://picsum.photos/id/147/300/300"
+    },
+    {
+      "name": "Paperclip Chain Necklace",
+      "price": 149.99,
+      "description": "Contemporary necklace featuring elongated links in a paperclip design. The versatile style can be worn alone or with pendants.",
+      "image": "https://picsum.photos/id/169/300/300"
+    },
+    {
+      "name": "Jade Bangle Bracelet",
+      "price": 119.95,
+      "description": "Traditional solid jade bangle in a rich green hue. Believed to bring good fortune and protection to the wearer.",
+      "image": "https://picsum.photos/id/119/300/300"
+    },
+    {
+      "name": "Amethyst Drop Earrings",
+      "price": 149.99,
+      "description": "Elegant drop earrings featuring rich purple amethyst stones in teardrop settings. Perfect for adding a touch of color to any outfit.",
+      "image": "https://picsum.photos/id/121/300/300"
+    },
+    {
+      "name": "Personalized Bar Bracelet",
+      "price": 89.95,
+      "description": "Minimalist bar bracelet that can be personalized with a name, date, or meaningful phrase. Available in silver, gold, or rose gold.",
+      "image": "https://picsum.photos/id/110/300/300"
+    },
+    {
+      "name": "Men's Chronograph Watch",
+      "price": 299.99,
+      "description": "Sophisticated chronograph watch with multiple dials and stainless steel bracelet. Features luminous hands and water resistance to 100m.",
+      "image": "https://picsum.photos/id/183/300/300"
+    },
+    {
+      "name": "Black Diamond Stud Earrings",
+      "price": 249.95,
+      "description": "Edgy yet elegant stud earrings featuring black diamonds set in oxidized sterling silver. A modern twist on a classic style.",
+      "image": "https://picsum.photos/id/128/300/300"
+    },
+    {
+      "name": "Floating Opal Necklace",
+      "price": 179.99,
+      "description": "Delicate necklace featuring an opal that appears to float on the chain. The play of colors in the opal creates a magical effect.",
+      "image": "https://picsum.photos/id/155/300/300"
+    },
+    {
+      "name": "Wide Cuff Bracelet",
+      "price": 159.95,
+      "description": "Statement cuff bracelet with embossed pattern inspired by ancient Greek designs. Available in sterling silver or bronze finish.",
+      "image": "https://picsum.photos/id/114/300/300"
+    },
+    {
+      "name": "Pink Tourmaline Ring",
+      "price": 279.99,
+      "description": "Vibrant ring featuring a pink tourmaline stone flanked by white topaz accents. The rose gold setting enhances the stone's warm hue.",
+      "image": "https://picsum.photos/id/148/300/300"
+    },
+    {
+      "name": "Herringbone Chain Necklace",
+      "price": 199.95,
+      "description": "Sleek herringbone chain crafted from sterling silver. The flat, flexible design sits comfortably against the skin.",
+      "image": "https://picsum.photos/id/161/300/300"
+    },
+    {
+      "name": "Men's ID Bracelet",
+      "price": 149.99,
+      "description": "Classic ID bracelet featuring a polished plate that can be engraved with a name or message. Sturdy curb chain with secure clasp.",
+      "image": "https://picsum.photos/id/118/300/300"
+    },
+    {
+      "name": "Labradorite Drop Earrings",
+      "price": 129.95,
+      "description": "Mystical labradorite stones known for their iridescent blue-green flash. Set in sterling silver with secure lever backs.",
+      "image": "https://picsum.photos/id/122/300/300"
+    },
+    {
+      "name": "Constellation Pendant Necklace",
+      "price": 89.99,
+      "description": "Zodiac-inspired pendant featuring your constellation picked out in cubic zirconia. Includes an information card about your sign.",
+      "image": "https://picsum.photos/id/154/300/300"
+    },
+    {
+      "name": "Pyrite Beaded Bracelet",
+      "price": 59.95,
+      "description": "Striking bracelet featuring faceted pyrite beads known for their metallic luster. Includes sterling silver spacer beads and clasp.",
+      "image": "https://picsum.photos/id/115/300/300"
+    },
+    {
+      "name": "London Blue Topaz Ring",
+      "price": 229.99,
+      "description": "Sophisticated ring featuring a deep London blue topaz in an emerald cut. The white gold setting provides elegant contrast.",
+      "image": "https://picsum.photos/id/143/300/300"
+    },
+    {
+      "name": "Snake Chain Necklace",
+      "price": 179.95,
+      "description": "Flexible snake chain with a smooth, sleek appearance. The interlocking design creates a seamless look that moves with you.",
+      "image": "https://picsum.photos/id/163/300/300"
+    },
+    {
+      "name": "Men's Rope Bracelet",
+      "price": 99.99,
+      "description": "Nautical-inspired rope bracelet crafted from sterling silver. The twisted design adds texture and visual interest.",
+      "image": "https://picsum.photos/id/117/300/300"
+    },
+    {
+      "name": "Fire Opal Stud Earrings",
+      "price": 169.95,
+      "description": "Vibrant fire opals with their characteristic orange-red play of color. Set in simple gold bezels to showcase the stones.",
+      "image": "https://picsum.photos/id/124/300/300"
+    },
+    {
+      "name": "Morse Code Necklace",
+      "price": 79.99,
+      "description": "Meaningful necklace with beads arranged to spell a word or phrase in Morse code. A secret message only you know the meaning of.",
+      "image": "https://picsum.photos/id/156/300/300"
+    },
+    {
+      "name": "Lava Stone Diffuser Bracelet",
+      "price": 39.95,
+      "description": "Wellness bracelet featuring porous lava stones that can hold essential oils. Includes wooden beads for a natural appearance.",
+      "image": "https://picsum.photos/id/111/300/300"
+    },
+    {
+      "name": "Chocolate Diamond Ring",
+      "price": 499.99,
+      "description": "Unique ring featuring natural brown diamonds in a cluster setting. The warm tones create a rich, distinctive appearance.",
+      "image": "https://picsum.photos/id/149/300/300"
+    },
+    {
+      "name": "Figaro Chain Necklace",
+      "price": 219.95,
+      "description": "Classic Figaro chain featuring a pattern of three small links followed by one longer link. Crafted in solid 14k gold.",
+      "image": "https://picsum.photos/id/162/300/300"
+    },
+    {
+      "name": "Men's Leather Cord Necklace",
+      "price": 69.99,
+      "description": "Casual necklace featuring a thick leather cord with stainless steel end caps and clasp. Available in black or brown.",
+      "image": "https://picsum.photos/id/152/300/300"
+    },
+    {
+      "name": "Kyanite Fan Earrings",
+      "price": 139.95,
+      "description": "Modern earrings featuring blue kyanite stones arranged in a fan pattern. The sterling silver setting enhances the stones' natural stripes.",
+      "image": "https://picsum.photos/id/125/300/300"
+    },
+    {
+      "name": "Coordinates Bracelet",
+      "price": 99.99,
+      "description": "Sentimental bracelet that can be engraved with the coordinates of a special location. A meaningful way to keep a place close to your heart.",
+      "image": "https://picsum.photos/id/116/300/300"
+    },
+    {
+      "name": "Men's Black Ceramic Ring",
+      "price": 149.95,
+      "description": "Contemporary wedding band crafted from black ceramic. Highly scratch-resistant with a permanent high-gloss finish.",
+      "image": "https://picsum.photos/id/187/300/300"
+    },
+    {
+      "name": "Kunzite Oval Ring",
+      "price": 329.99,
+      "description": "Feminine ring featuring a pale pink kunzite stone in an oval cut. The delicate hue is complemented by a halo of small diamonds.",
+      "image": "https://picsum.photos/id/141/300/300"
+    },
+    {
+      "name": "Box Chain Necklace",
+      "price": 189.95,
+      "description": "Sturdy box chain necklace with square links that create a modern, architectural appearance. Available in multiple lengths.",
+      "image": "https://picsum.photos/id/165/300/300"
+    },
+    {
+      "name": "Twisted Copper Bracelet",
+      "price": 49.99,
+      "description": "Artisan-crafted bracelet featuring twisted copper with a patinated finish. Some believe copper bracelets have health benefits.",
+      "image": "https://picsum.photos/id/113/300/300"
+    },
+    {
+      "name": "Green Aventurine Earrings",
+      "price": 89.95,
+      "description": "Lucky green aventurine stones in simple drop settings. Known as the 'stone of opportunity,' aventurine is said to attract good fortune.",
+      "image": "https://picsum.photos/id/126/300/300"
+    },
+    {
+      "name": "Roman Numeral Necklace",
+      "price": 79.99,
+      "description": "Personalized pendant featuring a special date in elegant Roman numerals. Makes a meaningful gift for anniversaries or birthdays.",
+      "image": "https://picsum.photos/id/153/300/300"
+    },
+    {
+      "name": "Tiger's Eye Beaded Bracelet",
+      "price": 59.95,
+      "description": "Eye-catching bracelet featuring rich brown tiger's eye stones with their characteristic golden bands. Believed to provide protection and confidence.",
+      "image": "https://picsum.photos/id/112/300/300"
+    },
+    {
+      "name": "Blue Zircon Ring",
+      "price": 279.99,
+      "description": "Brilliant blue zircon stone in a classic setting. Often mistaken for blue topaz, zircon has an exceptional sparkle and brilliance.",
+      "image": "https://picsum.photos/id/144/300/300"
+    },
+    {
+      "name": "Omega Chain Necklace",
+      "price": 299.95,
+      "description": "Luxurious Omega chain featuring flat, closely-linked segments that create a smooth, snake-like appearance. Available in 14k or 18k gold.",
+      "image": "https://picsum.photos/id/164/300/300"
+    },
+    {
+      "name": "Men's Anchor Bracelet",
+      "price": 89.99,
+      "description": "Nautical-inspired bracelet featuring an anchor charm on a durable paracord band. Adjustable length for perfect fit.",
+      "image": "https://picsum.photos/id/119/300/300"
+    },
+    {
+      "name": "Carnelian Drop Earrings",
+      "price": 99.95,
+      "description": "Vibrant orange-red carnelian stones in teardrop settings. This energizing stone is said to boost courage and creativity.",
+      "image": "https://picsum.photos/id/123/300/300"
+    },
+    {
+      "name": "Feather Pendant Necklace",
+      "price": 69.99,
+      "description": "Bohemian-inspired pendant featuring a detailed feather design. Symbolic of freedom and spiritual connection.",
+      "image": "https://picsum.photos/id/159/300/300"
+    },
+    {
+      "name": "Sodalite Stretch Bracelet",
+      "price": 49.95,
+      "description": "Deep blue sodalite beads on a comfortable stretch cord. This stone is associated with logic, efficiency, and clear communication.",
+      "image": "https://picsum.photos/id/110/300/300"
+    },
+    {
+      "name": "Alexandrite Color-Change Ring",
+      "price": 599.99,
+      "description": "Fascinating ring featuring a rare alexandrite stone that changes color depending on the lighting—appearing green in daylight and purple in incandescent light.",
+      "image": "https://picsum.photos/id/145/300/300"
+    },
+    {
+      "name": "Wheat Chain Necklace",
+      "price": 249.95,
+      "description": "Intricate wheat chain necklace with links that resemble wheat stalks. The flexible design moves naturally with the wearer.",
+      "image": "https://picsum.photos/id/167/300/300"
+    },
+    {
+      "name": "Men's Magnetic Bracelet",
+      "price": 79.99,
+      "description": "Contemporary bracelet featuring powerful magnets set in stainless steel links. Some believe magnetic jewelry offers therapeutic benefits.",
+      "image": "https://picsum.photos/id/118/300/300"
+    },
+    {
+      "name": "Smoky Quartz Stud Earrings",
+      "price": 109.95,
+      "description": "Sophisticated earrings featuring smoky quartz stones in a deep brown hue. The simple setting allows the stones' natural beauty to shine.",
+      "image": "https://picsum.photos/id/127/300/300"
+    },
+    {
+      "name": "Hamsa Hand Necklace",
+      "price": 59.99,
+      "description": "Protective amulet featuring the Hamsa hand symbol with a blue evil eye at its center. A meaningful gift to wish someone safety and good fortune.",
+      "image": "https://picsum.photos/id/151/300/300"
+    },
+    {
+      "name": "Hematite Therapy Bracelet",
+      "price": 39.95,
+      "description": "Sleek bracelet featuring magnetic hematite stones with a metallic luster. Believed by some to help with circulation and relaxation.",
+      "image": "https://picsum.photos/id/114/300/300"
+    },
+    {
+      "name": "Imperial Topaz Ring",
+      "price": 399.99,
+      "description": "Luxurious ring featuring a rare imperial topaz stone with its characteristic golden-orange hue. The vintage-inspired setting enhances its warm tones.",
+      "image": "https://picsum.photos/id/142/300/300"
+    },
+    {
+      "name": "Singapore Chain Necklace",
+      "price": 169.95,
+      "description": "Delicate Singapore chain featuring interwoven links that create a twisted appearance. Lightweight yet sturdy for everyday wear.",
+      "image": "https://picsum.photos/id/168/300/300"
+    },
+    {
+      "name": "Men's Dragon Bracelet",
+      "price": 119.99,
+      "description": "Bold bracelet featuring a detailed dragon design wrapping around the wrist. Crafted in stainless steel with optional gold accents.",
+      "image": "https://picsum.photos/id/115/300/300"
+    },
+    {
+      "name": "Prehnite Drop Earrings",
+      "price": 89.95,
+      "description": "Unique earrings featuring pale green prehnite stones with their characteristic translucent quality. Set in simple silver frames to showcase the natural stone.",
+      "image": "https://picsum.photos/id/122/300/300"
+    },
+    {
+      "name": "Tree of Life Pendant",
+      "price": 69.99,
+      "description": "Symbolic pendant featuring the Tree of Life design in intricate silverwork. Represents growth, strength, and the interconnection of all living things.",
+      "image": "https://picsum.photos/id/157/300/300"
+    },
+    {
+      "name": "Rainbow Moonstone Bracelet",
+      "price": 129.95,
+      "description": "Mystical bracelet featuring rainbow moonstone beads with their characteristic blue sheen. Linked with delicate silver chain for a feminine appearance.",
+      "image": "https://picsum.photos/id/111/300/300"
+    },
+    {
+      "name": "Men's Meteorite Ring",
+      "price": 299.99,
+      "description": "Otherworldly ring featuring an inlay of genuine meteorite. Each piece features a unique pattern formed over billions of years in space.",
+      "image": "https://picsum.photos/id/186/300/300"
+    }
+  ]
+}
