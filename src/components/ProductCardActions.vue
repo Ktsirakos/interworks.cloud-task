@@ -4,10 +4,12 @@
             :quantity="itemQuantity ?? 0" />
         <div v-else></div>
         <button v-if="!isItemInBasket" @click="addToBasket"
-            class="flex flex-row gap-2 bg-cyan-500 text-black py-2 px-5 rounded-3xl">Add to
-            basket</button>
-        <button v-else @click="removeFromBasket"
-            class="flex flex-row gap-2 bg-red-400 text-black py-2 px-5 rounded-3xl">Remove</button>
+            class="flex flex-row gap-2 bg-cyan-500 text-black py-2 px-5 rounded-3xl">
+            <ShoppingCart />
+        </button>
+        <button v-else @click="removeFromBasket" class="flex flex-row gap-2 text-red-500 py-2 px-5">
+            <Trash />
+        </button>
     </div>
 </template>
 
@@ -16,6 +18,7 @@ import { computed } from 'vue';
 import QuantityCounter from './QuantityCounter.vue';
 import { useBasketStore } from "@/stores/basket"
 import type { Product } from '@/api/types';
+import { ShoppingCart, Trash } from 'lucide-vue-next';
 
 const props = defineProps<{ item: Product }>()
 const basketStore = useBasketStore()
