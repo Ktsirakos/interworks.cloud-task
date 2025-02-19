@@ -13,7 +13,6 @@ ApiClient.fetchAllProducts().then((value) => {
 })
 
 const filterProducts = (query: string) => {
-  console.log(query)
   items.value = initialItems.value?.filter(e => e.name.includes(query))
 }
 

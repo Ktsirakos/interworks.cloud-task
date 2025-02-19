@@ -36,13 +36,11 @@ export const useBasketStore = defineStore('basket', () => {
         basketItems.value = updatedItems
     }
 
-    watch(() => basketItems.value, (newValue, oldValue) => {
-        console.log(basketItems.value, { newValue, oldValue })
+    watch(() => basketItems.value, () => {
         const totalPrice = basketItems.value.reduce((acc, curr) => {
             return acc + (curr.item.price * curr.quantity)
         }, 0)
 
-        console.log('New price', totalPrice)
         basketPrice.value = Math.floor(totalPrice)
     })
 

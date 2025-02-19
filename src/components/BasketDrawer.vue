@@ -35,10 +35,6 @@ const {
     basketPrice,
 } = storeToRefs(basketStore)
 
-watch(basketPrice, (newValue, oldValue) => {
-    console.log({ newValue, oldValue })
-})
-
 const { closeBasketDrawer } = basketStore
 
 watch(() => props.open, (newValue) => {
