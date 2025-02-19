@@ -4,10 +4,14 @@
         <div v-if="props.open" class="py-10 px-5">
             <div class="flex flex-row justify-between items-center">
                 <p class="text-5xl">Basket</p>
-                <X @click="() => basketStore.closeBasketDrawer()" :size="52" color="white" class="cursor-pointer" />
+                <X @click="() => closeBasketDrawer()" :size="52" color="white" class="cursor-pointer" />
             </div>
             <div class="py-10 gap-4">
-                <BasketItem v-for="product of basketStore.basketItems" :product="product.item" :key="product.item.id" />
+                <BasketItem v-for="product of basketItems" :product="product.item" :key="product.item.id" />
+            </div>
+            <div class="flex flex-row justify-between items-center">
+                <p class="text-3xl">Total</p>
+                <CurrencyText locale="EU" class="text-4xl" :value="basketPrice" />
             </div>
         </div>
     </div>
@@ -18,11 +22,24 @@ import { useBasketStore } from '@/stores/basket';
 import { X } from 'lucide-vue-next';
 import BasketItem from './BasketItem.vue';
 import { watch, onMounted, onUnmounted } from 'vue';
+import CurrencyText from './CurrencyText.vue';
+import { storeToRefs } from 'pinia';
 const props = defineProps<{
     open: boolean
 }>()
 
 const basketStore = useBasketStore()
+
+const {
+    basketItems,
+    basketPrice,
+} = storeToRefs(basketStore)
+
+watch(basketPrice, (newValue, oldValue) => {
+    console.log({ newValue, oldValue })
+})
+
+const { closeBasketDrawer } = basketStore
 
 watch(() => props.open, (newValue) => {
     if (newValue) {

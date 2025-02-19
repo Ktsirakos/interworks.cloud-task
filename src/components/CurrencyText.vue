@@ -3,10 +3,12 @@
 </template>
 
 <script setup lang="ts">
-const props = defineProps < {
+import { computed } from 'vue';
+
+const props = defineProps<{
     value: number,
     locale?: "EU" | "US"
-} > ()
+}>()
 
-const text = props.locale === "EU" ? "€" + props.value : props.value + "$"
+const text = computed(() => props.locale === "EU" ? "€" + props.value : props.value + "$")
 </script>
