@@ -1,45 +1,52 @@
-# interworks.cloud-task
+# interworks.cloud-task - E-commerce Application
 
-This template should help get you started developing with Vue 3 in Vite.
+A simplified e-commerce application built with Vue 3, Vite, and npm that allows users to browse products, search, and manage their shopping basket.
 
-## Recommended IDE Setup
+## Features
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+- Product search functionality
+- Product listing with details
+- Shopping basket management (add, remove, update quantities)
+- Responsive design for desktop and mobile devices
+- Mock API integration for product data
 
-## Type Support for `.vue` Imports in TS
+## Prerequisites
 
-TypeScript cannot handle type information for `.vue` imports by default, so we replace the `tsc` CLI with `vue-tsc` for type checking. In editors, we need [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) to make the TypeScript language service aware of `.vue` types.
+Before you begin, ensure you have the following installed:
+- [Node.js](https://nodejs.org/) (v16 or higher)
+- npm (usually comes with Node.js)
 
-## Customize configuration
+## Getting Started
 
-See [Vite Configuration Reference](https://vite.dev/config/).
+### 1. Clone the repository
 
-## Project Setup
+```bash
+git clone git@github.com:Ktsirakos/interworks.cloud-task.git
+cd interworks.cloud-task
+```
 
-```sh
+### 2. Install dependencies
+
+```bash
 npm install
 ```
 
-### Compile and Hot-Reload for Development
+### 3. Start the development server
 
-```sh
+```bash
 npm run dev
 ```
 
-### Type-Check, Compile and Minify for Production
+This will start the development server at `http://localhost:5173` (default Vite port).
 
-```sh
-npm run build
-```
+## Mock Data
 
-### Run Unit Tests with [Vitest](https://vitest.dev/)
+The application uses mock data stored in `public/mock-data/products.json`. In a real-world scenario, this would be replaced with actual API calls.
 
-```sh
-npm run test:unit
-```
+## Available Scripts
 
-### Lint with [ESLint](https://eslint.org/)
-
-```sh
-npm run lint
-```
+- `npm run dev` - Start the development server
+- `npm run build` - Build for production
+- `npm run preview` - Preview production build
+- `npm run lint` - Run ESLint
+- `npm run test` - Run tests (if configured)
